@@ -1,3 +1,5 @@
+// if setting not working then rename it to useSetting only
+
 import { useQuery } from "@tanstack/react-query";
 import { getSettings } from "../../services/apiSettings";
 
