@@ -1,2 +1,3 @@
-To view the project please visit the link below:
-https://ishans-wild-oasis.netlify.app/login
+## To view this project please visit the link below:
+<br/>
+https://ishans-wild-oasis.netlify.app
