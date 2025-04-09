@@ -1,3 +1,3 @@
 ## To view this project please visit the link below:
 <br/>
-https://ishans-wild-oasis.netlify.app
+https://the-wild-oasis-hotel-booking.netlify.app/
